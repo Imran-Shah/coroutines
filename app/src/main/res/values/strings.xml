@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="cd_image">Image of the movie</string>
+    <string name="search_hint">Search for movies here</string>
+</resources>
